@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.vscode
+.DS_Store
+.idea
+.env
+.aider*

@@ -1,0 +1,157 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-06-13 11:29:43
+count workspace : /mnt/c/Users/wolfram/Documents/Диплом/realtime-chat
+total files : 122
+total code lines : 27349
+total comment lines : 231
+total blank lines : 1417
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .md|             78|              0|              7|   0.29|
+   |       .history|             12|              0|              6|  0.044|
+   |          .json|           9171|              0|             46|     34|
+   |           .yml|             10|              0|              0|  0.037|
+   |            .ts|           1721|             58|            207|    6.3|
+   |            .js|            227|              6|             18|   0.83|
+   |               |             30|              9|              2|   0.11|
+   |          .yaml|           3038|              6|            942|     11|
+   |          .html|             13|              0|              0|  0.048|
+   |           .xml|          10872|              0|              0|     40|
+   |           .iml|             12|              0|              0|  0.044|
+   |        .prisma|             64|              2|              8|   0.23|
+   |          .toml|              3|              0|              0|  0.011|
+   |           .sql|            107|            139|             41|   0.39|
+   |          .meta|             14|              0|              0|  0.051|
+   |           .svg|            345|              0|              0|    1.3|
+   |           .css|              6|              0|              1|  0.022|
+   |           .tsx|           1625|             11|            139|    5.9|
+   |           .bak|              1|              0|              0| 0.0037|
+   -------------------------------------------------------------------------
+.aider.chat.history.md, code is 78, comment is 0, blank is 7.
+.aider.input.history, code is 12, comment is 0, blank is 6.
+.gitignore, code is 8, comment is 0, blank is 0.
+.idea/.gitignore, code is 5, comment is 0, blank is 0.
+.idea/dataSources.local.xml, code is 35, comment is 0, blank is 0.
+.idea/dataSources.xml, code is 19, comment is 0, blank is 0.
+.idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819.xml, code is 5403, comment is 0, blank is 0.
+.idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg.meta, code is 1, comment is 0, blank is 0.
+.idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg/schema/information_schema.FNRwLQ.meta, code is 2, comment is 0, blank is 0.
+.idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg/schema/pg_catalog.0S1ZNQ.meta, code is 2, comment is 0, blank is 0.
+.idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg/schema/public.abK9xQ.meta, code is 2, comment is 0, blank is 0.
+.idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235.xml, code is 5285, comment is 0, blank is 0.
+.idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg.meta, code is 1, comment is 0, blank is 0.
+.idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg/schema/information_schema.FNRwLQ.meta, code is 2, comment is 0, blank is 0.
+.idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg/schema/pg_catalog.0S1ZNQ.meta, code is 2, comment is 0, blank is 0.
+.idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg/schema/public.abK9xQ.meta, code is 2, comment is 0, blank is 0.
+.idea/modules.xml, code is 8, comment is 0, blank is 0.
+.idea/realtime-chat.iml, code is 12, comment is 0, blank is 0.
+.idea/vcs.xml, code is 6, comment is 0, blank is 0.
+.idea/workspace.xml, code is 116, comment is 0, blank is 0.
+client/.gitignore, code is 14, comment is 9, blank is 2.
+client/index.html, code is 13, comment is 0, blank is 0.
+client/package-lock.json, code is 5325, comment is 0, blank is 45.
+client/package.json, code is 44, comment is 0, blank is 0.
+client/pnpm-lock.yaml, code is 1741, comment is 4, blank is 517.
+client/postcss.config.js, code is 6, comment is 0, blank is 0.
+client/public/default-pfp.jpg, it is a binary file.
+client/public/theme-darkmode.svg, code is 171, comment is 0, blank is 0.
+client/public/theme-lightmode.svg, code is 173, comment is 0, blank is 0.
+client/public/vite.svg, code is 1, comment is 0, blank is 0.
+client/src/api/api.ts, code is 10, comment is 0, blank is 3.
+client/src/App.tsx, code is 27, comment is 0, blank is 2.
+client/src/components/Chat.tsx, code is 139, comment is 0, blank is 14.
+client/src/components/Contact.tsx, code is 61, comment is 0, blank is 4.
+client/src/components/Converasation.tsx, code is 98, comment is 0, blank is 6.
+client/src/components/ConversationSkeleton.tsx, code is 12, comment is 0, blank is 1.
+client/src/components/Dropdown.tsx, code is 101, comment is 3, blank is 12.
+client/src/components/EditAccount.tsx, code is 120, comment is 2, blank is 9.
+client/src/components/Message.tsx, code is 89, comment is 1, blank is 5.
+client/src/components/MessageDropdown.tsx, code is 46, comment is 0, blank is 3.
+client/src/components/NewMessageInputForm.tsx, code is 99, comment is 1, blank is 9.
+client/src/components/PersistLogin.tsx, code is 41, comment is 0, blank is 4.
+client/src/components/PrivateRoute.tsx, code is 7, comment is 0, blank is 2.
+client/src/components/Search.tsx, code is 33, comment is 0, blank is 3.
+client/src/components/Sidebar.tsx, code is 176, comment is 0, blank is 11.
+client/src/components/ThemeSwitcher.tsx, code is 57, comment is 0, blank is 2.
+client/src/components/ui/Input.tsx, code is 105, comment is 0, blank is 4.
+client/src/contexts/AuthContext.tsx, code is 23, comment is 0, blank is 7.
+client/src/contexts/SocketContext.tsx, code is 116, comment is 2, blank is 16.
+client/src/contexts/ThemeContext.tsx, code is 25, comment is 0, blank is 6.
+client/src/hooks/auth/useEditAccount.ts, code is 58, comment is 1, blank is 2.
+client/src/hooks/auth/useLogin.ts, code is 37, comment is 1, blank is 6.
+client/src/hooks/auth/useLogout.ts, code is 16, comment is 0, blank is 2.
+client/src/hooks/auth/useSignup.ts, code is 65, comment is 3, blank is 9.
+client/src/hooks/useAxiosPrivate.ts, code is 39, comment is 0, blank is 5.
+client/src/hooks/useConversations.ts, code is 145, comment is 5, blank is 10.
+client/src/hooks/useDebounce.ts, code is 13, comment is 0, blank is 4.
+client/src/hooks/useMessages.ts, code is 276, comment is 28, blank is 15.
+client/src/hooks/useRefreshToken.ts, code is 16, comment is 0, blank is 3.
+client/src/hooks/useSearch.ts, code is 16, comment is 0, blank is 2.
+client/src/index.css, code is 6, comment is 0, blank is 1.
+client/src/main.tsx, code is 27, comment is 2, blank is 2.
+client/src/pages/Home.tsx, code is 15, comment is 0, blank is 2.
+client/src/pages/Login.tsx, code is 71, comment is 0, blank is 6.
+client/src/pages/Settings.tsx, code is 36, comment is 0, blank is 3.
+client/src/pages/Signup.tsx, code is 101, comment is 0, blank is 6.
+client/src/utils/aes.ts, code is 62, comment is 3, blank is 8.
+client/src/utils/cryptoUtils.ts, code is 26, comment is 0, blank is 3.
+client/src/utils/Resizer.js, code is 210, comment is 5, blank is 17.
+client/src/vite-env.d.ts, code is 51, comment is 1, blank is 6.
+client/tailwind.config.js, code is 11, comment is 1, blank is 1.
+client/tsconfig.json, code is 21, comment is 0, blank is 0.
+client/tsconfig.node.json, code is 9, comment is 0, blank is 0.
+client/vite.config.ts, code is 5, comment is 1, blank is 1.
+docker-compose.yml, code is 10, comment is 0, blank is 0.
+server/.gitignore, code is 3, comment is 0, blank is 0.
+server/package-lock.json, code is 3726, comment is 0, blank is 1.
+server/package.json, code is 37, comment is 0, blank is 0.
+server/pnpm-lock.yaml, code is 1297, comment is 2, blank is 425.
+server/prisma/migrations/20230403044140_init/migration.sql, code is 5, comment is 1, blank is 1.
+server/prisma/migrations/20230403044521_init/migration.sql, code is 2, comment is 8, blank is 0.
+server/prisma/migrations/20230404183137_update_user_schema/migration.sql, code is 13, comment is 16, blank is 6.
+server/prisma/migrations/20230410032954_created_message_schema/migration.sql, code is 9, comment is 3, blank is 3.
+server/prisma/migrations/20230410232440_fixed_typo/migration.sql, code is 4, comment is 10, blank is 2.
+server/prisma/migrations/20230411010250_added_created_at_to_message_schema/migration.sql, code is 1, comment is 1, blank is 0.
+server/prisma/migrations/20230413003618_created_conversation_table/migration.sql, code is 16, comment is 8, blank is 8.
+server/prisma/migrations/20230415202053_add_refresh_token/migration.sql, code is 1, comment is 1, blank is 0.
+server/prisma/migrations/20230418225826_update_conversation_table/migration.sql, code is 10, comment is 18, blank is 8.
+server/prisma/migrations/20230420211807_updated_conversation_table/migration.sql, code is 1, comment is 7, blank is 0.
+server/prisma/migrations/20230420211945_updated_conversation_table/migration.sql, code is 1, comment is 1, blank is 0.
+server/prisma/migrations/20230522214003_added_profile_picture_to_user/migration.sql, code is 1, comment is 1, blank is 0.
+server/prisma/migrations/20230523014935_updated_user/migration.sql, code is 2, comment is 7, blank is 0.
+server/prisma/migrations/20230607013620_added_ondelete_to_conversation/migration.sql, code is 2, comment is 2, blank is 1.
+server/prisma/migrations/20230608022942_added_is_read_to_message_table/migration.sql, code is 1, comment is 1, blank is 0.
+server/prisma/migrations/20230608031109_added_is_read_to_conversation_table/migration.sql, code is 2, comment is 8, blank is 1.
+server/prisma/migrations/20230608034305_removed_is_read/migration.sql, code is 1, comment is 7, blank is 0.
+server/prisma/migrations/20230608045918_new_conversation_user_table/migration.sql, code is 9, comment is 3, blank is 3.
+server/prisma/migrations/20230609183216_removed_joiner_creator/migration.sql, code is 4, comment is 10, blank is 2.
+server/prisma/migrations/20230614013819_isread_not_default_to_true/migration.sql, code is 1, comment is 1, blank is 0.
+server/prisma/migrations/20230614014258_conversationuser_ondelete_cascade/migration.sql, code is 2, comment is 2, blank is 1.
+server/prisma/migrations/20230614223611_new_isedited_to_message_table/migration.sql, code is 1, comment is 1, blank is 0.
+server/prisma/migrations/20230622000753_removed_receiver_id_from_message/migration.sql, code is 2, comment is 8, blank is 1.
+server/prisma/migrations/20240519143547_add_keys/migration.sql, code is 4, comment is 10, blank is 0.
+server/prisma/migrations/20240519212054_add_requests/migration.sql, code is 12, comment is 4, blank is 4.
+server/prisma/migrations/migration_lock.toml, code is 3, comment is 0, blank is 0.
+server/prisma/schema.prisma, code is 64, comment is 2, blank is 8.
+server/src/config/allowedOrigins.ts, code is 1, comment is 0, blank is 0.
+server/src/config/allowedOrigins.ts.bak, code is 1, comment is 0, blank is 0.
+server/src/config/corsOptions.ts, code is 12, comment is 0, blank is 2.
+server/src/controllers/authController.ts, code is 198, comment is 4, blank is 35.
+server/src/controllers/conversationsController.ts, code is 287, comment is 9, blank is 20.
+server/src/controllers/messagesController.ts, code is 167, comment is 2, blank is 25.
+server/src/controllers/usersController.ts, code is 56, comment is 0, blank is 5.
+server/src/db.ts, code is 10, comment is 0, blank is 5.
+server/src/middleware/credentials.ts, code is 9, comment is 0, blank is 1.
+server/src/middleware/verifyJWT.ts, code is 27, comment is 0, blank is 3.
+server/src/routes/auth.ts, code is 9, comment is 0, blank is 7.
+server/src/routes/conversations.ts, code is 20, comment is 0, blank is 9.
+server/src/routes/messages.ts, code is 10, comment is 0, blank is 3.
+server/src/routes/users.ts, code is 7, comment is 0, blank is 4.
+server/src/server.ts, code is 73, comment is 0, blank is 9.
+server/tsconfig.json, code is 9, comment is 0, blank is 0.
+===============================================================================

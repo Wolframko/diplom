@@ -1,0 +1,847 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "/mnt/c/Users/wolfram/Documents/Диплом/realtime-chat",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-06-13 11:29:43",
+            "filesum": 122,
+            "codesum": 27349,
+            "commentsum": 231,
+            "blanksum": 1417,
+            "statistics": {
+                ".md": {
+                    "code": 78,
+                    "comment": 0,
+                    "blank": 7
+                },
+                ".history": {
+                    "code": 12,
+                    "comment": 0,
+                    "blank": 6
+                },
+                ".json": {
+                    "code": 9171,
+                    "comment": 0,
+                    "blank": 46
+                },
+                ".yml": {
+                    "code": 10,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".ts": {
+                    "code": 1721,
+                    "comment": 58,
+                    "blank": 207
+                },
+                ".js": {
+                    "code": 227,
+                    "comment": 6,
+                    "blank": 18
+                },
+                "": {
+                    "code": 30,
+                    "comment": 9,
+                    "blank": 2
+                },
+                ".yaml": {
+                    "code": 3038,
+                    "comment": 6,
+                    "blank": 942
+                },
+                ".html": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".xml": {
+                    "code": 10872,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".iml": {
+                    "code": 12,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".prisma": {
+                    "code": 64,
+                    "comment": 2,
+                    "blank": 8
+                },
+                ".toml": {
+                    "code": 3,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".sql": {
+                    "code": 107,
+                    "comment": 139,
+                    "blank": 41
+                },
+                ".meta": {
+                    "code": 14,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".svg": {
+                    "code": 345,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".css": {
+                    "code": 6,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".tsx": {
+                    "code": 1625,
+                    "comment": 11,
+                    "blank": 139
+                },
+                ".bak": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 7,
+                    "code": 78,
+                    "comment": 0,
+                    "filename": ".aider.chat.history.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".aider.input.history"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": ".idea/.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": ".idea/dataSources.local.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": ".idea/dataSources.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 5403,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg/schema/information_schema.FNRwLQ.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg/schema/pg_catalog.0S1ZNQ.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/23cc98a9-18d5-40d5-9697-58fdb176f819/storage_v2/_src_/database/meeting_room_booking_development.dQqkWg/schema/public.abK9xQ.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 5285,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg/schema/information_schema.FNRwLQ.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg/schema/pg_catalog.0S1ZNQ.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".idea/dataSources/49ff9d4d-0b2d-40a7-a5b8-e5696a45b235/storage_v2/_src_/database/mydatabase.J7NGgg/schema/public.abK9xQ.meta"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".idea/modules.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".idea/realtime-chat.iml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".idea/vcs.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 116,
+                    "comment": 0,
+                    "filename": ".idea/workspace.xml"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": "client/.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "client/index.html"
+                },
+                {
+                    "blank": 45,
+                    "code": 5325,
+                    "comment": 0,
+                    "filename": "client/package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "client/package.json"
+                },
+                {
+                    "blank": 517,
+                    "code": 1741,
+                    "comment": 4,
+                    "filename": "client/pnpm-lock.yaml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "client/postcss.config.js"
+                },
+                {
+                    "filename": "client/public/default-pfp.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 171,
+                    "comment": 0,
+                    "filename": "client/public/theme-darkmode.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 173,
+                    "comment": 0,
+                    "filename": "client/public/theme-lightmode.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "client/public/vite.svg"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "client/src/api/api.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "client/src/App.tsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 139,
+                    "comment": 0,
+                    "filename": "client/src/components/Chat.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 61,
+                    "comment": 0,
+                    "filename": "client/src/components/Contact.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 98,
+                    "comment": 0,
+                    "filename": "client/src/components/Converasation.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "client/src/components/ConversationSkeleton.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 101,
+                    "comment": 3,
+                    "filename": "client/src/components/Dropdown.tsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 120,
+                    "comment": 2,
+                    "filename": "client/src/components/EditAccount.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 89,
+                    "comment": 1,
+                    "filename": "client/src/components/Message.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "client/src/components/MessageDropdown.tsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 99,
+                    "comment": 1,
+                    "filename": "client/src/components/NewMessageInputForm.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "client/src/components/PersistLogin.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "client/src/components/PrivateRoute.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "client/src/components/Search.tsx"
+                },
+                {
+                    "blank": 11,
+                    "code": 176,
+                    "comment": 0,
+                    "filename": "client/src/components/Sidebar.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "client/src/components/ThemeSwitcher.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 105,
+                    "comment": 0,
+                    "filename": "client/src/components/ui/Input.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "client/src/contexts/AuthContext.tsx"
+                },
+                {
+                    "blank": 16,
+                    "code": 116,
+                    "comment": 2,
+                    "filename": "client/src/contexts/SocketContext.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "client/src/contexts/ThemeContext.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 58,
+                    "comment": 1,
+                    "filename": "client/src/hooks/auth/useEditAccount.ts"
+                },
+                {
+                    "blank": 6,
+                    "code": 37,
+                    "comment": 1,
+                    "filename": "client/src/hooks/auth/useLogin.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "client/src/hooks/auth/useLogout.ts"
+                },
+                {
+                    "blank": 9,
+                    "code": 65,
+                    "comment": 3,
+                    "filename": "client/src/hooks/auth/useSignup.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "client/src/hooks/useAxiosPrivate.ts"
+                },
+                {
+                    "blank": 10,
+                    "code": 145,
+                    "comment": 5,
+                    "filename": "client/src/hooks/useConversations.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "client/src/hooks/useDebounce.ts"
+                },
+                {
+                    "blank": 15,
+                    "code": 276,
+                    "comment": 28,
+                    "filename": "client/src/hooks/useMessages.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "client/src/hooks/useRefreshToken.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "client/src/hooks/useSearch.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "client/src/index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 27,
+                    "comment": 2,
+                    "filename": "client/src/main.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "client/src/pages/Home.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "client/src/pages/Login.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "client/src/pages/Settings.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 101,
+                    "comment": 0,
+                    "filename": "client/src/pages/Signup.tsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 62,
+                    "comment": 3,
+                    "filename": "client/src/utils/aes.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "client/src/utils/cryptoUtils.ts"
+                },
+                {
+                    "blank": 17,
+                    "code": 210,
+                    "comment": 5,
+                    "filename": "client/src/utils/Resizer.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 51,
+                    "comment": 1,
+                    "filename": "client/src/vite-env.d.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "client/tailwind.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "client/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "client/tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "client/vite.config.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "docker-compose.yml"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "server/.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 3726,
+                    "comment": 0,
+                    "filename": "server/package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "server/package.json"
+                },
+                {
+                    "blank": 425,
+                    "code": 1297,
+                    "comment": 2,
+                    "filename": "server/pnpm-lock.yaml"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230403044140_init/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 8,
+                    "filename": "server/prisma/migrations/20230403044521_init/migration.sql"
+                },
+                {
+                    "blank": 6,
+                    "code": 13,
+                    "comment": 16,
+                    "filename": "server/prisma/migrations/20230404183137_update_user_schema/migration.sql"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 3,
+                    "filename": "server/prisma/migrations/20230410032954_created_message_schema/migration.sql"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 10,
+                    "filename": "server/prisma/migrations/20230410232440_fixed_typo/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230411010250_added_created_at_to_message_schema/migration.sql"
+                },
+                {
+                    "blank": 8,
+                    "code": 16,
+                    "comment": 8,
+                    "filename": "server/prisma/migrations/20230413003618_created_conversation_table/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230415202053_add_refresh_token/migration.sql"
+                },
+                {
+                    "blank": 8,
+                    "code": 10,
+                    "comment": 18,
+                    "filename": "server/prisma/migrations/20230418225826_update_conversation_table/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 7,
+                    "filename": "server/prisma/migrations/20230420211807_updated_conversation_table/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230420211945_updated_conversation_table/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230522214003_added_profile_picture_to_user/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 7,
+                    "filename": "server/prisma/migrations/20230523014935_updated_user/migration.sql"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 2,
+                    "filename": "server/prisma/migrations/20230607013620_added_ondelete_to_conversation/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230608022942_added_is_read_to_message_table/migration.sql"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 8,
+                    "filename": "server/prisma/migrations/20230608031109_added_is_read_to_conversation_table/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 7,
+                    "filename": "server/prisma/migrations/20230608034305_removed_is_read/migration.sql"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 3,
+                    "filename": "server/prisma/migrations/20230608045918_new_conversation_user_table/migration.sql"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 10,
+                    "filename": "server/prisma/migrations/20230609183216_removed_joiner_creator/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230614013819_isread_not_default_to_true/migration.sql"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 2,
+                    "filename": "server/prisma/migrations/20230614014258_conversationuser_ondelete_cascade/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "server/prisma/migrations/20230614223611_new_isedited_to_message_table/migration.sql"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 8,
+                    "filename": "server/prisma/migrations/20230622000753_removed_receiver_id_from_message/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 10,
+                    "filename": "server/prisma/migrations/20240519143547_add_keys/migration.sql"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 4,
+                    "filename": "server/prisma/migrations/20240519212054_add_requests/migration.sql"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "server/prisma/migrations/migration_lock.toml"
+                },
+                {
+                    "blank": 8,
+                    "code": 64,
+                    "comment": 2,
+                    "filename": "server/prisma/schema.prisma"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "server/src/config/allowedOrigins.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "server/src/config/allowedOrigins.ts.bak"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "server/src/config/corsOptions.ts"
+                },
+                {
+                    "blank": 35,
+                    "code": 198,
+                    "comment": 4,
+                    "filename": "server/src/controllers/authController.ts"
+                },
+                {
+                    "blank": 20,
+                    "code": 287,
+                    "comment": 9,
+                    "filename": "server/src/controllers/conversationsController.ts"
+                },
+                {
+                    "blank": 25,
+                    "code": 167,
+                    "comment": 2,
+                    "filename": "server/src/controllers/messagesController.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 56,
+                    "comment": 0,
+                    "filename": "server/src/controllers/usersController.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "server/src/db.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "server/src/middleware/credentials.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "server/src/middleware/verifyJWT.ts"
+                },
+                {
+                    "blank": 7,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "server/src/routes/auth.ts"
+                },
+                {
+                    "blank": 9,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "server/src/routes/conversations.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "server/src/routes/messages.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "server/src/routes/users.ts"
+                },
+                {
+                    "blank": 9,
+                    "code": 73,
+                    "comment": 0,
+                    "filename": "server/src/server.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "server/tsconfig.json"
+                }
+            ]
+        }
+    ]
+}
